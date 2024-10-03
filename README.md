@@ -11,4 +11,4 @@ A continuación se explican brevemente las tareas realizadas:
 
     4. Se ha propuesto una reinterpretación de la instalación Messa di voce.
 
-    
+Para poder ejecutar el cuaderno (Tareas_P2.ipynb) se debe descargar el archivo que se encuentra en el repositorio (mandril.jpg) ya que se utiliza en el cuaderno.
